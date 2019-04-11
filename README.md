@@ -15,4 +15,8 @@ Main steps to make the project complete:
 
 Main modules included: scipy.stats, statistics, openpyxl
 
+### Statistics methods involved
+
+Analysis included finding the mean, top 10, botom 10, standard deviation and kurtosis.
+
 
