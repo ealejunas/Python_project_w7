@@ -13,7 +13,7 @@ Main steps to make the project complete:
 
 ### Modules used
 
-Main modules included: scipy.stats, statistics, openpyxl
+Main modules included: scipy.stats, statistics, openpyxl.
 
 ### Statistics methods involved
 
